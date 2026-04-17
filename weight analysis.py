@@ -7,7 +7,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.neighbors import KNeighborsClassifier
 import joblib
 #dataset 
-df=pd.read_csv('C:/Users/pooja/OneDrive/Desktop/ML Internship/Day 10/Finial Project/Weight analysis/generated_height_weight_status_dataset.csv')
+df=pd.read_csv('generated_height_weight_status_dataset.csv')
 print(df)
 label=LabelEncoder()
 y=label.fit_transform(df['status'])
