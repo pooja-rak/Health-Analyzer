@@ -3,8 +3,8 @@ import joblib
 import pandas as pd
 
 # Load model and label
-model = joblib.load('C:/Users/pooja/OneDrive/Desktop/ML Internship/Day 10/Finial Project/Weight analysis/weight.pkl')
-label = joblib.load('C:/Users/pooja/OneDrive/Desktop/ML Internship/Day 10/Finial Project/Weight analysis/label.pkl')
+model = joblib.load('weight.pkl')
+label = joblib.load('label.pkl')
 
 # Page settings
 st.set_page_config(page_title="Health Analyzer", page_icon="💪", layout="centered")
