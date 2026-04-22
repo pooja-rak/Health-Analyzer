@@ -1,22 +1,22 @@
-# 🧠 Health Analyzer ML Project
+# Health Analyzer ML Project
 
-## 📌 Overview
+## Overview
 
 The **Health Analyzer** is a Machine Learning-based web application that analyzes user health parameters and provides predictions or suggestions based on the input data. This project is designed to help users understand their health condition in a simple and interactive way.
 
 ---
 
-## 🚀 Features
+## Features
 
-* 📊 User-friendly interface using Streamlit
-* 🧠 Machine Learning model for health prediction
-* ⚡ Real-time analysis based on user input
-* 📁 Pre-trained model integration
-* 📈 Data preprocessing and prediction pipeline
+* User-friendly interface using Streamlit
+* Machine Learning model for health prediction
+* Real-time analysis based on user input
+* Pre-trained model integration
+* Data preprocessing and prediction pipeline
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 * **Python**
 * **Streamlit**
@@ -27,7 +27,7 @@ The **Health Analyzer** is a Machine Learning-based web application that analyze
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 health-analyzer/
@@ -40,22 +40,22 @@ health-analyzer/
 
 ---
 
-## ⚙️ Installation & Setup
+## Installation & Setup
 
-### 1️⃣ Clone the repository
+### 1️. Clone the repository
 
 ```
 git clone https://github.com/your-username/health-analyzer.git
 cd health-analyzer
 ```
 
-### 2️⃣ Install dependencies
+### 2️. Install dependencies
 
 ```
 pip install -r requirements.txt
 ```
 
-### 3️⃣ Run the application
+### 3️. Run the application
 
 ```
 streamlit run app.py
@@ -63,13 +63,13 @@ streamlit run app.py
 
 ---
 
-## 🌐 Live Demo
+## Live Demo
 
-👉 https://health-analyzer-h84rxfffpjjynvmjihdgkn.streamlit.app/
+**Link:** https://health-analyzer-h84rxfffpjjynvmjihdgkn.streamlit.app/
 
 ---
 
-## 📊 How It Works
+## How It Works
 
 1. User enters health-related inputs
 2. Data is preprocessed
@@ -78,7 +78,7 @@ streamlit run app.py
 
 ---
 
-## 💡 Future Improvements
+## Future Improvements
 
 * Add more health parameters
 * Improve model accuracy
@@ -87,25 +87,25 @@ streamlit run app.py
 
 ---
 
-## 🤝 Contribution
+## Contribution
 
 Contributions are welcome! Feel free to fork the repo and submit a pull request.
 
 ---
 
-## 📜 License
+## License
 
 This project is open-source and available under the MIT License.
 
 ---
 
-## 🙌 Acknowledgment
+## Acknowledgment
 
 This project is developed as part of learning and exploring Machine Learning concepts.
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 **Pooja**
-Machine Learning Enthusiast 🚀
+Machine Learning Enthusiast 
