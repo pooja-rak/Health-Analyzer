@@ -60,13 +60,6 @@ pip install -r requirements.txt
 ```
 streamlit run app.py
 ```
-
----
-
-## Live Demo
-
-**Link:** https://health-analyzer-h84rxfffpjjynvmjihdgkn.streamlit.app/
-
 ---
 
 ## How It Works
